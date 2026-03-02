@@ -1,0 +1,23 @@
+{
+  "heroName": "Gusion",
+  "skins": [
+    {
+      "name": "Gusion Backup",
+      "imageUrl": "https://github.com/XXXRAINIER09/.../gusion%20backup.png",
+      "downloadUrl": "https://github.com/SourceBMT95/.../BACKUP%20GUSION.zip",
+      "isBackup": true
+    },
+    {
+      "name": "V.E.N.O.M. Emperor Scorpion",
+      "imageUrl": "https://github.com/XXXRAINIER09/.../IMG_20220529_164230.jpg",
+      "downloadUrl": "https://github.com/XXXRAINIER09/.../new%20Gusion%20revamp%20(Venum).zip",
+      "isBackup": false
+    },
+    {
+      "name": "Cosmic Gleam",
+      "imageUrl": "https://github.com/XXXRAINIER09/.../IMG_20220529_164221.jpg",
+      "downloadUrl": "https://github.com/RyuDevGFX/.../Gusion-legend-fixed.zip",
+      "isBackup": false
+    }
+  ]
+}
