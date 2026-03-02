@@ -1,23 +1,67 @@
-{
-  "heroName": "Gusion",
-  "skins": [
-    {
-      "name": "Gusion Backup",
-      "imageUrl": "https://github.com/XXXRAINIER09/.../gusion%20backup.png",
-      "downloadUrl": "https://github.com/SourceBMT95/.../BACKUP%20GUSION.zip",
-      "isBackup": true
-    },
-    {
-      "name": "V.E.N.O.M. Emperor Scorpion",
-      "imageUrl": "https://github.com/XXXRAINIER09/.../IMG_20220529_164230.jpg",
-      "downloadUrl": "https://github.com/XXXRAINIER09/.../new%20Gusion%20revamp%20(Venum).zip",
-      "isBackup": false
-    },
-    {
-      "name": "Cosmic Gleam",
-      "imageUrl": "https://github.com/XXXRAINIER09/.../IMG_20220529_164221.jpg",
-      "downloadUrl": "https://github.com/RyuDevGFX/.../Gusion-legend-fixed.zip",
-      "isBackup": false
-    }
-  ]
-}
+[
+  {
+    "heroName": "Gusion",
+    "skins": [
+      {
+        "name": "Gusion Backup",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/gusion%20backup.png",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/BACKUP%20GUSION.zip",
+        "isBackup": true
+      },
+      {
+        "name": "V.E.N.O.M. Emperor Scorpion",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164230.jpg",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/new%20Gusion%20revamp%20(Venum).zip",
+        "isBackup": false
+      },
+      {
+        "name": "Cosmic Gleam",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164221.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.4/Upcoming%20Skin/Gusion-legend-fixed.zip",
+        "isBackup": false
+      },
+      {
+        "name": "Cyber Ops",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164215.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Assassin/Gusion%20Cyber%20Ops.zip",
+        "isBackup": false
+      },
+      {
+        "name": "Dangerous Liaison",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/gusion%20Valentine.png",
+        "downloadUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/new%20Gusion%20revamp%20(valentine).zip",
+        "isBackup": false
+      },
+      {
+        "name": "Soul Revelation",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164151.jpg",
+        "downloadUrl": "https://github.com/SourceBMT95/NEWASSASSIN/raw/main/GUSION%20EPIC%F0%9F%94%B8soul.zip",
+        "isBackup": false
+      },
+      {
+        "name": "K'",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164145.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_3.4/SKIN_UPDATED/gusion-kof.zip",
+        "isBackup": false
+      },
+      {
+        "name": "Night Owl",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164138.jpg",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.4/Updated%20Skin/Gusion-collector.zip",
+        "isBackup": false
+      },
+      {
+        "name": "Dimension Walker",
+        "imageUrl": "https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v37/gusion%2011.11%20skin.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/version2/raw/main/Version_2.4/Updated%20Skin/Gusion-11.11%20fixed.zip",
+        "isBackup": false
+      },
+      {
+        "name": "Desert spider",
+        "imageUrl": "https://github.com/RyuDevGFX/V53/raw/main/v2.2/gusion.png",
+        "downloadUrl": "https://github.com/RyuDevGFX/V53/raw/main/v2.2/Gusion-%20New%20Starlight.zip",
+        "isBackup": false
+      }
+    ]
+  }
+]
